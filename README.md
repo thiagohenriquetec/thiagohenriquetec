@@ -9,7 +9,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="esquerda">
-<a href="https://linkedin.com/in/linkedin.com/in/thiagohenriquetec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/thiagohenriquetec" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thiagohenriquetec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/thiagohenriquetec" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e Ferramentas:</h3>
