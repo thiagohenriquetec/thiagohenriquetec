@@ -1,11 +1,11 @@
-<h1 align="center">Oi 👋, sou Thiago</h1>
-<h3 align="center">Um profissional apaixonado por ciência e desenvolvimento de dados.</h3>
+<h1 align="center">Oi 👋, eu sou Thiago!</h1>
+<h3 align="center">Um profissional apaixonado por ciência de dados e desenvolvimento.</h3>
 
-- 🔭 Atualmente estou trabalhando em **PL/SQL**
+- 🔭 Atualmente estou trabalhando com **PL/SQL (Oracle)**
 
-- 👯 Estou procurando colaborar em **PL/SQL e ciência de dados**
+- 👯 Estou procurando colaborar em **PL/SQL e Ciência de Dados**
 
-- 📫 Como chegar até mim **97.thiagohfs@gmail.com**
+- 📫 Você pode entrar em contato comigo pelo e-mail **97.thiagohfs@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="esquerda">
