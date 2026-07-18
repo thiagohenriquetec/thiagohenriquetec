@@ -26,6 +26,6 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia e nos meus pr
 ## 📈 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagohenriquetec&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Thiago" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagohenriquetec&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-readme-stats-six-beige.vercel.app/api?username=thiagohenriquetec&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Thiago" height="150" />
+  <img src="https://github-readme-stats-six-beige.vercel.app/api/top-langs/?username=thiagohenriquetec&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150" />
 </p>
