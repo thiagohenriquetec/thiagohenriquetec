@@ -1,16 +1,31 @@
-<h1 align="center">Oi 👋, eu sou Thiago!</h1>
-<h3 align="center">Um profissional apaixonado por ciência de dados e desenvolvimento.</h3>
+# Olá, Eu sou o Thiago Henrique! 👋
 
-- 🔭 Atualmente estou trabalhando com **PL/SQL (Oracle)**
+### Apaixonado por transformar dados em soluções.
 
-- 👯 Estou procurando colaborar em **PL/SQL e Ciência de Dados**
+---
 
-- 📫 Você pode entrar em contato comigo pelo e-mail **97.thiagohfs@gmail.com**
+## 💼 Work & Focus
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="esquerda">
-<a href="https://linkedin.com/in/thiagohenriquetec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/thiagohenriquetec" height="30" width="40" /></a>
+* 🚀 Atualmente focado em **Desenvolvimento PL/SQL** e **Análise de Dados**.
+* 🧠 Desenvolvendo automações inteligentes integrando bancos de dados e programação.
+* 📊 Criando soluções para extrair insights e gerar valor através dos dados.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+Aqui estão as principais tecnologias que utilizo no meu dia a dia e nos meus projetos:
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-Database-blue?style=for-the-badge&logo=oracle)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=thiagohenriquetec&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Thiago" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagohenriquetec&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150" />
 </p>
-
-<h3 align="left">Idiomas e Ferramentas:</h3>
-<p align="esquerda"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
